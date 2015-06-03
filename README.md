@@ -1,1 +1,2 @@
-# OpenGl-android
+# OpenGL
+http://developer.android.com/training/graphics/opengl provides the how to draw the basic triangle and rotate. But its desperate for game developer to develop a game from this basic code, need to write hell of code to make small animations and graphics. These API s here are made to create the graphic Objects easily and play with their animations ......
