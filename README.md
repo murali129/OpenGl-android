@@ -1,2 +1,4 @@
 # OpenGL
-http://developer.android.com/training/graphics/opengl provides  how to draw the basic triangle and rotate. But its desperate for game developer to develop a game from this basic code, need to write hell of code to make small animations and graphics. The aim of this project is to generate  API s to create the graphic Objects easily and play with their animations ......
+http://developer.android.com/training/graphics/opengl provides how to draw the basic triangle and rotate. 
+
+Its really hard to simulate rigid body properties or create animations using these basic units, the basic idea of this project is to build a game engine using OPENGL wrapper which is lite weight and faster than game engines such as Unity
